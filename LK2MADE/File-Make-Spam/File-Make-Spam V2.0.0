@@ -1,0 +1,479 @@
+ATTACKMODE HID
+DELAY 500
+GUI R
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im a hackerman now so yeah :p', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+GUI R
+DELAY 500
+STRING CMD
+DELAY 150
+CTRL SHIFT ENTER
+DELAY 1000
+ALT Y
+DELAY 1000
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+REM @Littlekitty2000 made this script
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+STRING echo :p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p:p > silly.txt
+DELAY 100
+ENTER
+DELAY 500
+GUI R
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+DELAY 500
+STRING powershell -Command "$wshell = New-Object -ComObject Wscript.Shell; $wshell.Popup('im sorry don't hurt me', 0, 'From HackerMan', 64)"
+DELAY 100
+ENTER
+REM don't do this
