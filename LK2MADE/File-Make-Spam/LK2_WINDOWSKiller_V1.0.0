@@ -2,7 +2,7 @@ REM THIS IS v1 AND UNTESTED
 REM THIS IS A WIP (WORK IN PROGRESS) SCRIPT
 GUI R
 DELAY 500
-STRING powershell -Command "$ws = New-Object -ComObject Wscript.Shell; $ws.Popup('This is v1 of the software and is untested', 1, 'LK2_WINDOWSKiller_V1.0.0', 4096)" ENTER
+STRING powershell -Command "$ws = New-Object -ComObject Wscript.Shell; $ws.Popup('This is v1 of the software and is untested', 1, 'LK2_WINDOWSKiller_V1.0.0', 4096)"
 DELAY 1200
 GUI R
 DELAY 500
