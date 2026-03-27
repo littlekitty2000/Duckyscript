@@ -38,6 +38,7 @@ DELAY 1200
 GUI R
 DELAY 500
 STRING whatsmyip.org
+REM i can still hear his voice sometimes / gay gay homosexual gay
 ENTER
 DELAY 2000
 CONTROL A
